@@ -20,7 +20,7 @@ Observa que 1000 es 103. Se pide que se calcule con un bucle.
 
     Documenta el programa con comentarios aclaratorios adicionales si se considera necesario.
 
-	**/
+	**/ 
 
 public class Ejercicio16 {
 	public static void main(String[] args) {
@@ -36,9 +36,11 @@ public class Ejercicio16 {
 			System.out.println("Introduce un número decimal : ");
 			numDecimales = teclado.nextDouble();
 			teclado.nextLine();
+			
 			System.out.println("Número de decimales a redondear: ");
 			decimales = teclado.nextInt();
 			teclado.nextLine();
+			
 			multi = Math.pow(10, decimales);
 			redondeado = Math.rint( numDecimales * multi ) / multi;
 			System.out.println("El número redondeado es : "+ redondeado);
