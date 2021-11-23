@@ -4,7 +4,7 @@
 
 public class Int01 {
 	public static void main(String[] args) {
-		int[] numeros = {2, 5, 4, 6, 7};	// Array de numeros enteros
+		int[] numeros = {2, 5, 4, 6, 7};	// Array de numeros enteros asd
 		mostrarArray(numeros);		// Mostrar array
 	}
 	
