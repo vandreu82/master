@@ -1,4 +1,4 @@
-package Abstraccion;
+/**package Abstraccion;
 
 public class HerenciaMultiple {
 	public static void main(String [] args) {
@@ -14,4 +14,4 @@ class Frankestein extends Animal implements Persona {
 		System.out.println("Uuuuurrggh uuuuuurgh");
 
 	}
-}sadsdasdasda
+}**/
