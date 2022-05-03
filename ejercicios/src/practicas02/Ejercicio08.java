@@ -1,3 +1,5 @@
+package practicas02;
+
 /**Escribe un programa simple que muestre en tres líneas separadas
  tu nombre completo, calle, ciudad, país y código postal.*/
  
