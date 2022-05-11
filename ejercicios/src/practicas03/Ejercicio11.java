@@ -1,4 +1,4 @@
-package practicas02;
+package practicas03;
 /**
  * Ejercicio11.java
  * Escribe un método que se llame banner() que muestra tus iniciales en la pantalla.
