@@ -3,7 +3,7 @@ package practicas01;
 /**
  * HolaMundo.java
  * Programa simple que hacen todos los programadores por primera vez
- * vmaf - 08/10/2020
+ * vmaf - 08/10/2021
  */
 
 public class HolaMundo {
