@@ -4,7 +4,7 @@ package practicas01;
 
 Saludos.java
  * Programa simple que muestra varios mensajes en la consola del sistema.
- *  vmaf - 08/10/2020
+ *  vmaf - 08/10/2021
  */
 
 import java.util.Scanner; // Importa el paquete java.util
